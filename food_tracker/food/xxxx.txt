@@ -1,0 +1,5 @@
+views.py
+view.html
+models.add function
+url
+list.html
